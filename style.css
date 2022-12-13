@@ -1,0 +1,29 @@
+header h1{
+    color: goldenrod;
+    text-align: center;
+    background-color: gray;
+    font-size: 60px;
+}
+header{
+    width: 100%;
+    background-color: gray;
+    color: red;
+}
+body{
+    background-color: black;
+}
+header li{
+    display: inline-block;
+    margin: 0 70px 0 70px;
+    font-size: 25px;
+}
+header ul{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
